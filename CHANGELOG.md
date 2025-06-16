@@ -4,15 +4,25 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-07)
+## Unreleased (2025-06-16)
+
+<section class="features">
+
+### Features
+
+-   [`3cde5b5`](https://github.com/stdlib-js/stdlib/commit/3cde5b5f79b66613517870b6afedbeda6f93e0bc) - add C implementation for `stats/base/dists/weibull/mgf` [(#4321)](https://github.com/stdlib-js/stdlib/pull/4321)
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#4992](https://github.com/stdlib-js/stdlib/issues/4992)
+[#3845](https://github.com/stdlib-js/stdlib/issues/3845), [#4992](https://github.com/stdlib-js/stdlib/issues/4992)
 
 </section>
 
@@ -24,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`3cde5b5`](https://github.com/stdlib-js/stdlib/commit/3cde5b5f79b66613517870b6afedbeda6f93e0bc) - **feat:** add C implementation for `stats/base/dists/weibull/mgf` [(#4321)](https://github.com/stdlib-js/stdlib/pull/4321) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
 -   [`1ebcfd6`](https://github.com/stdlib-js/stdlib/commit/1ebcfd618beaf055a7097c89f3794d507fd14947) - **bench:** refactor random number generation in `stats/base/dists/weibull` [(#5342)](https://github.com/stdlib-js/stdlib/pull/5342) _(by Gaurav)_
 -   [`31fd427`](https://github.com/stdlib-js/stdlib/commit/31fd42744ec5d7073041f97c6f72350b8005c0fc) - **style:** remove unwanted empty lines _(by Philipp Burckhardt)_
 
@@ -37,8 +48,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Dhruv Arvind Singh
 -   Gaurav
 -   Philipp Burckhardt
 
