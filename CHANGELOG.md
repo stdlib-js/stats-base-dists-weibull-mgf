@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-21)
+## Unreleased (2026-11-06)
 
 <section class="bug-fixes">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`09f03dd`](https://github.com/stdlib-js/stdlib/commit/09f03dd17ff939ee738b0cf1f08bdd7b07a3ea0b) - **docs:** fix typo [(#16524)](https://github.com/stdlib-js/stdlib/pull/16524) _(by ItsAbir005)_
+-   [`7349dff`](https://github.com/stdlib-js/stdlib/commit/7349dffeddd90289879f06e70acc1be8544af75b) - **style:** add missing whitespace [(#16507)](https://github.com/stdlib-js/stdlib/pull/16507) _(by Philipp Burckhardt)_
 -   [`93d712b`](https://github.com/stdlib-js/stdlib/commit/93d712b9f648a28afc6f039173a3715139a90991) - **fix:** update parameter names [(#12487)](https://github.com/stdlib-js/stdlib/pull/12487) _(by Philipp Burckhardt)_
 
 </details>
@@ -34,8 +36,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   ItsAbir005
 -   Philipp Burckhardt
 
 </section>
